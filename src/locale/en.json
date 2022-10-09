@@ -49,14 +49,14 @@
   "home-extent": {
     "tooltip": "Go back to initial position"
   },
-  "IGO": "IGO",
+  "IGO": "BNPGI",
   "noEntityStore": "No tables available for this dataset",
   "coordinates": "Show coordinates",
   "googleMap": "Show in Google Maps",
   "googleStreetView": "Show in Google Street View",
   "welcomeWindow": {
-    "html": "<h1>Welcome to {{title}, the Québec goverment mapping application </h1><h2>Version {{version}}, build on {{releaseDate}}</h2>",
-    "title": "",
+    "html": "<h1>Welcome to {{title}}, the BNPI mapping application </h1><h2>Version {{version}}, build on {{releaseDate}}</h2>",
+    "title": "BNPGI",
     "closeButton": "Close",
     "notShowCheck": "Do not show again"
   },
